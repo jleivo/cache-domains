@@ -131,6 +131,6 @@
 			"name": "faf",
 			"description": "Forged alliance Forever",
 			"domain_files": ["faf.txt"]
-		},
+		}
 	]
 }
