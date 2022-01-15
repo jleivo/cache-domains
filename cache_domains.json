@@ -127,5 +127,10 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		}
+				{
+			"name": "faf",
+			"description": "Forged alliance Forever",
+			"domain_files": ["faf.txt"]
+		},
 	]
 }
